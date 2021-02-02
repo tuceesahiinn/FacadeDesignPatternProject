@@ -1,0 +1,6 @@
+C:\Users\demo\Desktop\FacadeFinal\FacadeFinal\bin\Debug\FacadeFinal.exe.config
+C:\Users\demo\Desktop\FacadeFinal\FacadeFinal\bin\Debug\FacadeFinal.exe
+C:\Users\demo\Desktop\FacadeFinal\FacadeFinal\bin\Debug\FacadeFinal.pdb
+C:\Users\demo\Desktop\FacadeFinal\FacadeFinal\obj\Debug\FacadeFinal.csprojAssemblyReference.cache
+C:\Users\demo\Desktop\FacadeFinal\FacadeFinal\obj\Debug\FacadeFinal.exe
+C:\Users\demo\Desktop\FacadeFinal\FacadeFinal\obj\Debug\FacadeFinal.pdb
